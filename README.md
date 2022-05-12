@@ -5,5 +5,6 @@
 3. TypeScript is enabled in FE and BE
 
 Notes:
+
 - To lint the project, run `npm run lint`
 - To fix linter errors, run `npm run lint-fix`
